@@ -1,6 +1,6 @@
 # Projeto-2026.1
 Professora:Kellen
-Alunos:Felipe Augusto, Thales Brasil, Luis Gustavo
+Alunos:Felipe Augusto, Thales Brasil, Luis Guilherme 
 
 Nome Da Empresa: RioSul
 
