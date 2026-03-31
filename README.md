@@ -54,5 +54,28 @@ Logística: Gestão de transporte e distribuição.
 Estoque: Controle de entrada, saída e validade.
 Vendas: Operação dos caixas (PDV) e notas fiscais.
 RH: Gestão de funcionários e folha de pagamento.
-Terceirizados: Gestão de contratos de prestadores de serviço.
+Terceirizados: Gestão de contratos de prestadore
+
+Processos críticos: 
+Frente de Caixa (PDV): É a única porta de entrada de dinheiro. Sem ele, a empresa fatura zero.
+Recebimento: É a porta de entrada de produtos. Sem ele, a cadeia de suprimentos trava e o mercado não tem o que vender.
+Estoque: É onde o dinheiro está "parado". Um erro aqui significa jogar produto no lixo (vencido) ou perder o cliente para o concorrente (ruptura).
+Financeiro: É o oxigênio da empresa. Sem conciliação, o dono acha que tem dinheiro, compra do fornecedor, o cheque bate na trave e o mercado entra em falência.
+(Estes processos foram definidos como críticos porque qualquer interrupção neles afeta diretamente o fluxo de caixa, a disponibilidade de produtos e a experiência imediata do cliente.)
+
+Principais processos atendidos:
+Vendas e Frente de Caixa (PDV).
+Gestão de Estoque e Logística.
+Compras e Reposição.
+Controle Financeiro.
+Recursos Humanos e Terceirizados.
+
+
+Limites do Projeto (O que não será implantado):
+Vendas Online e Aplicativos de Entrega.
+Compra de Equipamentos e Computadores (Hardware).
+Controle de Produção (O sistema não vai funcionar como uma fábrica (calculando receitas, ingredientes ou tempo de forno. Ele fará apenas conversões simples de estoque: registra que entrou uma peça de carne inteira e que saiu carne moída na bandeja.)
+Correção Manual das Planilhas Antigas(Nossa equipe só vai transferir os dados para o sistema novo. Se a planilha de Excel da RioSul estiver bagunçada, com produtos duplicados ou preços errados, a obrigação de limpar e arrumar esses dados antes da migração é dos funcionários deles, não nossa.)
+
+s de serviço.
 CRM: Gestão de promoções e fidelidade dos clientes.
